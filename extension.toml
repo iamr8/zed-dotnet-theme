@@ -1,0 +1,7 @@
+id = "dotnet-theme"
+name = "Legacy .NET"
+version = "0.1.0"
+schema_version = 1
+authors = ["Arash Shabbeh <arash.shabbeh@gmail.com>"]
+description = "A dark theme for .NET developers."
+repository = "https://github.com/iamr8/zed-dotnet-theme"
